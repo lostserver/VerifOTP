@@ -7,3 +7,8 @@ https://raw.githack.com/lostserver/XL/main/otp.html
 Cek Area Akrab
 
 https://raw.githack.com/lostserver/XL/main/areaakrab.html
+
+# Sidompul
+Cek Kuota XL, Axis, Live On
+
+https://raw.githack.com/lostserver/XL/main/sidompul.html
