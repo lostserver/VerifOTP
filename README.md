@@ -12,3 +12,6 @@ https://raw.githack.com/lostserver/XL/main/areaakrab.html
 Cek Kuota XL, Axis, Live On
 
 https://raw.githack.com/lostserver/XL/main/sidompul.html
+
+#Link
+https://raw.githack.com/lostserver/XL/main/MyXL.html
