@@ -13,5 +13,5 @@ Cek Kuota XL, Axis, Live On
 
 https://raw.githack.com/lostserver/XL/main/sidompul.html
 
-#Link
+# PAKET XL
 https://raw.githack.com/lostserver/XL/main/MyXL.html
